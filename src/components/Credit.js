@@ -7,7 +7,7 @@ export default function Credit() {
     
       <a href=""
         ></a
-      >, <a href=""> .</a> 
+      > <a href=""> </a> 
     </p>
   </div>
   );
