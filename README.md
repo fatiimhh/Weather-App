@@ -1,4 +1,4 @@
-
+⛅
 A Weather App, Displays weather data and a 5-day forecast from any
 city in the world using the (OpenWeatherMap).
 
